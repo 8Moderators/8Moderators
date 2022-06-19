@@ -35,5 +35,5 @@ All the code and projects provided (to you, from me) are strictly for educationa
 
 <h2 align="center">sniffcat.jpg</h2>
 <div align="center">
-  <img src="https://raw.githubusercontent.com/hyporium/sniffcat/sniffcat.jpg](https://raw.githubusercontent.com/Hyporium/sniffcat/main/sniffcat.jpg"></img>
+  <img src="https://raw.githubusercontent.com/Hyporium/sniffcat/main/sniffcat.jpg"></img>
 </div>
